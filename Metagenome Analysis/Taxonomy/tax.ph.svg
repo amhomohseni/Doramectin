@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="250" width="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	 <image x="0" y="0" width="300" height="250" xlink:href="/ifs/TJPROJ3/GB_MICRO/NGS_PJ/Autometa/work/X101SC21102787-Z01-J002/report_20211217161450/Result-X101SC21102787_Z01_J002_B1_41_20211220/04.TaxAnnotation/MetaStats/species/cluster.species.diff.png" xmlns:xlink="http://www.w3.org/1999/xlink" />
+	<text fill="black" font-family="Arial" font-size="10" stroke="none" x="10" y="10">a</text>
+	 <image x="300" y="0" width="300" height="250" xlink:href="/ifs/TJPROJ3/GB_MICRO/NGS_PJ/Autometa/work/X101SC21102787-Z01-J002/report_20211217161450/Result-X101SC21102787_Z01_J002_B1_41_20211220/04.TaxAnnotation/MetaStats/species/PCA/PCA12_2.png" xmlns:xlink="http://www.w3.org/1999/xlink" />
+	<text fill="black" font-family="Arial" font-size="10" stroke="none" x="310" y="10">b</text>
+</svg>
